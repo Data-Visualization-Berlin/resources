@@ -10,6 +10,8 @@ https://import.io/
 
 ### Data sources
 
+[European Data Portal](https://www.europeandataportal.eu/en/)
+
 http://www.google.com/publicdata/directory
 http://datascience.berkeley.edu/open-data-sets/
 
